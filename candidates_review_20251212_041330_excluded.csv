@@ -1,0 +1,787 @@
+symbol,name,reason
+اراد2174,مرابحه دولت عام217-ش.خ.070228,blacklist_name
+اراد2304,مرابحه عام دولت230-ش.خ070628,blacklist_name
+اراد2394,مرابحه عام دولت239-ش.خ070922,blacklist_name
+اراد2044,مرابحه عام دولت204-ش.خ060707,blacklist_name
+اراد2144,مرابحه عام دولت214-ش.خ061120,blacklist_name
+اراد2204,مرابحه دولت عام220-ش.خ070303,blacklist_name
+اراد2194,مرابحه دولت عام219-ش.خ061003,blacklist_name
+اراد2484,مرابحه عام دولت248-ش.خ060727,blacklist_name
+اراد1624,مرابحه عام دولت162-ش.خ050329,blacklist_name
+اراد1984,مرابحه عام دولت198-ش.خ060524,blacklist_name
+اراد1974,مرابحه عام دولت197-ش.خ060324,blacklist_name
+اراد1814,مرابحه عام دولت181-ش.خ050424,blacklist_name
+عيار,صندوق طلاي عيار مفيد,blacklist_name
+اراد2024,مرابحه عام دولت202-ش.خ060530,blacklist_name
+اراد2234,مرابحه عام دولت223-ش.خ070431,blacklist_name
+اراد2404,مرابحه عام دولت240-ش.خ060929,blacklist_name
+اراد1734,مرابحه عام دولت173-ش.خ050620,blacklist_name
+اراد904,مرابحه عام دولت90-ش.خ050217,blacklist_name
+اراد2364,مرابحه عام دولت236-ش.خ070815,blacklist_name
+اراد2164,مرابحه عام دولت216-ش.خ.061128,blacklist_name
+تابان27,اجاره تابان فردا تمدن14080919,no_signals_or_low_gain
+كارا,صندوق س. كارا -د,blacklist_name
+فيروزا,صندوق ارمغان فيروزه آسيا-ثابت,blacklist_name
+آوند,صندوق س. آوند مفيد-د,blacklist_name
+ياقوت,صندوق س ياقوت آگاه-ثابت,blacklist_name
+اراد229,مرابحه عام دولت229-ش.خ061028,blacklist_name
+اراد238,مرابحه عام دولت238-ش.خ061022,blacklist_name
+اراد1714,مرابحه عام دولت171-ش.خ060316,blacklist_name
+اراد2294,مرابحه عام دولت229-ش.خ061028,blacklist_name
+كيان,صندوق س. با درآمد ثابت كيان,blacklist_name
+طلا,صندوق س.پشتوانه طلاي لوتوس,blacklist_name
+پاسارگاد,صندوق س.درآمد ثابت پاسارگاد-د,blacklist_name
+اهرم,صندوق س سهامي كاريزما- اهرمي,blacklist_name
+افران,صندوق س افرا نماد پايدار-ثابت,blacklist_name
+لبخند,صندوق س. لبخند فارابي-د,blacklist_name
+اراد2184,مرابحه دولت عام218-ش.خ070328,blacklist_name
+اونيكس,ص.س.درآمد ثابت كيميا-د,blacklist_name
+اراد994,مرابحه عام دولت99-ش.خ050723,blacklist_name
+سپر,صندوق س سپر سرمايه بيدار- ثابت,blacklist_name
+فردا,صندوق س آواي فرداي زاگرس-ثابت,blacklist_name
+موج,ص.س.اهرمي موج فيروزه-س,blacklist_name
+اعتماد,صندوق س.اعتماد آفرين پارسيان-د,blacklist_name
+كارا4,صندوق س. كارا -د,blacklist_name
+ثبات,صندوق س. ثبات ويستا -د,blacklist_name
+ماهور,صندوق سرمايه گذاري ماهور-ثابت,blacklist_name
+كارين,صندوق س نگين سامان-ثابت,blacklist_name
+دارا يكم,صندوق واسطه گري مالي يكم-سهام,blacklist_name
+كهربا,صندوق س.پشتوانه سكه طلا كهربا,blacklist_name
+مثقال,صندوق س.پشتوانه طلاي زرين آگاه,blacklist_name
+فزر,پويا زركان آق دره,no_signals_or_low_gain
+اركيده,صندوق سرمايه گذاري اركيده-ثابت,blacklist_name
+توان,صندوق س. اهرمي توان مفيد-س,blacklist_name
+پالايش,صندوق پالايشي يكم-سهام,blacklist_name
+گنج,صندوق س. طلا كيميا زرين كاردان,blacklist_name
+ريتون,صندوق س.پشتوانه طلاجام زرينپاد,blacklist_name
+كمند,صندوق س. با درآمد ثابت كمند,blacklist_name
+دامون,ص.س. درآمد ثابت آسمان دامون-د,blacklist_name
+كاج,صندوق س. نوع دوم نو ويرا -د,blacklist_name
+تداوم,صندوق تداوم اطمينان تمدن-ثابت,blacklist_name
+گام050617,گواهي اعتبارمولد ملي14050631,no_signals_or_low_gain
+فولاد,فولاد مباركه اصفهان,no_signals_or_low_gain
+ثمر,صندوق س ثمرگندم-ثابت,blacklist_name
+فملي,ملي‌ صنايع‌ مس‌ ايران‌,no_signals_or_low_gain
+اعتبار,صندوق س. نوع دوم اعتبار-د,blacklist_name
+جهش,صندوق سهامي جهش فارابي-اهرمي,blacklist_name
+گوهر,صندوق طلاي كيان,blacklist_name
+درين,صندوق س. درين بها بازار-د,blacklist_name
+پاداش,صندوق س. ارزش پاداش-د,blacklist_name
+سپر4,صندوق س سپر سرمايه بيدار- ثابت,blacklist_name
+آلتون,صندوق س.پشتوانه طلاآسمان آلتون,blacklist_name
+هماي,صندوق س هماي آگاه-ثابت,blacklist_name
+نوري,پتروشيمي نوري,no_signals_or_low_gain
+توسكا,صندوق س توسعه فولاد- ثابت,blacklist_name
+كارآمد,صندوق س.درآمد ثابت كارآمد-د,blacklist_name
+اراد2114,مرابحه عام دولت211-ش.خ050528,blacklist_name
+بانيان,نيان باتري خاوران,no_signals_or_low_gain
+آتش,صندوق س.پشتوانه طلا آتش فيروزه,blacklist_name
+درخشان,صندوق س.پشتوانه طلادرخشان آبان,blacklist_name
+سكه0312پ01,تمام سكه طرح جديد0312 رفاه,no_signals_or_low_gain
+شبندر,پالايش نفت بندرعباس,no_signals_or_low_gain
+صاميا511,صكوك مرابحه خزاميا511-3ماهه18%,blacklist_name
+نشان,صندوق س. نشان هامرز-د,blacklist_name
+نارنج اهرم,ص.س. اهرمي نارنج-س,blacklist_name
+كامياب,صندوق س. كامياب آشنا-د,blacklist_name
+وشهر2,بانك شهر,no_signals_or_low_gain
+شتران,پالايش نفت تهران,no_signals_or_low_gain
+ستاره,ص.س.ستاره پايدارسپهر-د,blacklist_name
+بيدار,صندوق س سهامي بيدار-اهرمي,blacklist_name
+فارس,صنايع پتروشيمي خليج فارس,no_signals_or_low_gain
+اعتماد4,صندوق س.اعتماد آفرين پارسيان-د,blacklist_name
+رز ترنج,صندوق س.پشتوانه طلاي رز,blacklist_name
+شستا,سرمايه گذاري تامين اجتماعي,no_signals_or_low_gain
+صنهال,صندوق س. نهال ايرانيان-ثابت,blacklist_name
+طلا4,صندوق س.پشتوانه طلاي لوتوس,blacklist_name
+ناب,صندوق س.پشتوانه طلا نهايت نگر,blacklist_name
+جواهر,صندوق س.پشتوانه طلا دناي زاگرس,blacklist_name
+پايا,صندوق س.پايا قلك پويا-د,blacklist_name
+شتاب,صندوق س سهامي شتاب آگاه-اهرمي,blacklist_name
+كيان4,صندوق س. با درآمد ثابت كيان,blacklist_name
+يارا,صندوق س. آريا-د,blacklist_name
+پارسان,گسترش نفت و گاز پارسيان,no_signals_or_low_gain
+سخوز2,سيمان خوزستان,no_signals_or_low_gain
+عيار4,صندوق طلاي عيار مفيد,blacklist_name
+اراد225,مرابحه عام دولت225-ش.خ060814,blacklist_name
+ليان,صندوق س.پشتوانه طلاي ليان,blacklist_name
+كوچين,توليدي كوچين,no_signals_or_low_gain
+اوصتا,صندوق انديشه ورزان صباتامين -د,blacklist_name
+زمرد,صندوق س.كالاي زمرد بيدار,blacklist_name
+اراد2434,مرابحه عام دولت243-ش.خ070906,blacklist_name
+شپنا,پالايش نفت اصفهان,no_signals_or_low_gain
+اطلس,صندوق س.توسعه اطلس مفيد-س,blacklist_name
+دوايكس,ص.س.اهرمي شاخصي كيان-س,blacklist_name
+تاپيكو,س. نفت و گاز و پتروشيمي تأمين,no_signals_or_low_gain
+داريك,صندوق س.اعتماد داريك-د,blacklist_name
+آكورد,صندوق س. آرمان آتي كوثر-د,blacklist_name
+شيلد,صندوق س مشترك پارس-مختلط,blacklist_name
+زرفام,صندوق س.پشتوانه طلا زرفام آشنا,blacklist_name
+تابش,صندوق س.پشتوانه طلا تابان تمدن,blacklist_name
+اصيل,صندوق درآمدثابت مشترك البرز-د,blacklist_name
+امين شهر,ص.س. املاك و مستغلات امين شهر,blacklist_name
+آلومينا,آلوميناي ايران,no_signals_or_low_gain
+ساحل,ص.ساحل سرمايه امن خليج فارس-د,blacklist_name
+زروان,صندوق س.پشتوانه طلازروان ويستا,blacklist_name
+همسنگ,صندوق س. شاخصي هم وزن همسنگ-س,blacklist_name
+وغدير,سرمايه‌گذاري‌غدير(هلدينگ‌,no_signals_or_low_gain
+ديبا,صندوق س اوراق دولتي صبا-ثابت,blacklist_name
+كچاد,معدني‌وصنعتي‌چادرملو,no_signals_or_low_gain
+ثفارس,عمران‌وتوسعه‌فارس‌,no_signals_or_low_gain
+تپسي,پيشگامان فن آوري و دانش آراميس,no_signals_or_low_gain
+خزانه ملت,صندوق س.مختص اوراق دولتي ملت-د,blacklist_name
+تسه1404,امتياز تسهيلات مسكن سال1404,blacklist_name
+زرگر,صندوق س.كالاي زرگر كارآمد,blacklist_name
+زر,صندوق س.پشتوانه طلاي زرافشان,blacklist_name
+ستران,سيمان‌ تهران‌,no_signals_or_low_gain
+شميم,صندوق س.درآمدثابت شميم تابان-د,blacklist_name
+وصندوق,سرمايه‌گذاري‌صندوق‌بازنشستگي‌,blacklist_name
+جم2,پتروشيمي جم,no_signals_or_low_gain
+پارند,صندوق س. پارند پايدار سپهر,blacklist_name
+ضملت9030,اختيارخ وبملت-1100-1404/09/19,no_signals_or_low_gain
+سامان2,بانك سامان,no_signals_or_low_gain
+كيسون,شركت كيسون,no_signals_or_low_gain
+شلرد,كود شيميايي اوره لردگان,no_signals_or_low_gain
+سام,صندوق س.درآمد ثابت سام-د,blacklist_name
+كگل,معدني و صنعتي گل گهر,no_signals_or_low_gain
+جام,صندوق س.مبتني بر كالاي فارابي,blacklist_name
+سكه0412پ03,تمام سكه طرح جديد0412 سامان,no_signals_or_low_gain
+تمشك,صندوق س تمشك نماد رشد-در صندوق,blacklist_name
+نهال,صندوق س. طلاي سرخ نوويرا,blacklist_name
+سيناد,صندوق س.سپهرسودمند سينا-د,blacklist_name
+وسپه,سرمايه‌گذاري‌ سپه‌,no_signals_or_low_gain
+گلدا,صندوق س.پشتوانه طلاي پاداش,blacklist_name
+ارمغان,ص سرمايه گذاري ارمغان ايرانيان,no_signals_or_low_gain
+بجهرم,توسعه مولد نيروگاهي جهرم,no_signals_or_low_gain
+فيروزه,صندوق شاخص30 شركت فيروزه- سهام,blacklist_name
+گنجين,صندوق س. گنجينه يكم آويد-د,blacklist_name
+ناب4,صندوق س.پشتوانه طلا نهايت نگر,blacklist_name
+رمپنا,گروه مپنا (سهامي عام),no_signals_or_low_gain
+كالا,بورس كالاي ايران,no_signals_or_low_gain
+خگستر,گسترش‌سرمايه‌گذاري‌ايران‌خودرو,no_signals_or_low_gain
+سپيدما,صندوق س. سپيد دماوند-د,blacklist_name
+دماوند,توليد نيروي برق دماوند,no_signals_or_low_gain
+زيتون,صندوق س زيتون نماد پايا- مختلط,blacklist_name
+حكشتي,كشتيراني جمهوري اسلامي ايران,no_signals_or_low_gain
+امرالد,صندوق س.پشتوانه طلاي كيميا,blacklist_name
+وپارس,بانك‌پارسيان‌,no_signals_or_low_gain
+قيراط,صندوق س.پشتوانه طلاي دماوند,blacklist_name
+كرمان,س. توسعه و عمران استان كرمان,no_signals_or_low_gain
+كاما,باما,no_signals_or_low_gain
+كاج4,صندوق س. نوع دوم نو ويرا -د,blacklist_name
+ضهرم1126,اختيارخ اهرم-34000-1404/11/29,no_signals_or_low_gain
+سدبير,س. تدبيرگران فارس وخوزستان,no_signals_or_low_gain
+تاصيكو,سرمايه گذاري صدرتامين,no_signals_or_low_gain
+شبريز,پالايش نفت تبريز,no_signals_or_low_gain
+سحرخيز,صندوق س. گروه زعفران سحرخيز,blacklist_name
+خزاميا,زامياد,no_signals_or_low_gain
+كزغال,زغال سنگ پروده طبس,no_signals_or_low_gain
+دعبيد,لابراتوارداروسازي‌  دكترعبيدي‌,no_signals_or_low_gain
+فارما كيان,صندوق س. بخشي كيان-ب,blacklist_name
+ورنا,سرمايه‌گذاري‌ رنا(هلدينگ‌,no_signals_or_low_gain
+خاور,ايران خودرو ديزل,no_signals_or_low_gain
+كمند4,صندوق س. با درآمد ثابت كمند,blacklist_name
+حفاري,حفاري شمال,no_signals_or_low_gain
+تصميم,صندوق س با درآمد ثابت تصميم,blacklist_name
+رشد,صندوق س.رشد پايدار آبان-د,blacklist_name
+زمرد كوروش,صندوق س زمرد كوروش-ثابت,blacklist_name
+ثابت اكسيژن,ص.س.درآمد ثابت اكسيژن-د,blacklist_name
+ضستا1052,اختيارخ شستا-1410-1404/10/10,no_signals_or_low_gain
+شبندر2,پالايش نفت بندرعباس,no_signals_or_low_gain
+شسپا,نفت سپاهان,no_signals_or_low_gain
+هم وزن,صندوق س. شاخصي كيان-س,blacklist_name
+ماهور4,صندوق سرمايه گذاري ماهور-ثابت,blacklist_name
+صمپنا67,صكوك اجاره مپنا67-3ماهه23%,no_signals_or_low_gain
+فسبزوار2,پارس فولاد سبزوار,no_signals_or_low_gain
+ونيرو,سرمايه‌گذاري‌نيرو,no_signals_or_low_gain
+بوعلي,پتروشيمي بوعلي سينا,no_signals_or_low_gain
+بپاس,بيمه پاسارگاد,no_signals_or_low_gain
+سمگا,گروه سرمايه گذاري ميراث فرهنگي,no_signals_or_low_gain
+غالبر,لبنيات‌ كالبر,no_signals_or_low_gain
+مهرگان,گروه مالي مهرگان تامين پارس,no_signals_or_low_gain
+زاگرس,پتروشيمي زاگرس,no_signals_or_low_gain
+دارونو,صندوق س صنايع مفيد5-بخشي,blacklist_name
+رابين,صندوق س. توسعه افق رابين-د,blacklist_name
+كرماشا,صنايع پتروشيمي كرمانشاه,no_signals_or_low_gain
+دي,بانك دي,no_signals_or_low_gain
+آگاس,صندوق س.هستي بخش آگاه-س,blacklist_name
+ماني,صندوق س. با درآمد ثابت ماني,blacklist_name
+ضهرم1125,اختيارخ اهرم-30000-1404/11/29,no_signals_or_low_gain
+نيشكر,توسعه نيشكر و  صنايع جانبي,no_signals_or_low_gain
+فباهنر,مس‌ شهيدباهنر,no_signals_or_low_gain
+وپست2,پست بانك ايران,no_signals_or_low_gain
+مالك آتيه,ص.س.املاك و مستغلات مالك آتيه,blacklist_name
+آسا,صندوق س آرمان كارآفرين-ثابت,blacklist_name
+دزاگرس,دارويي و نهاده هاي زاگرس دارو,no_signals_or_low_gain
+ضملت9031,اختيارخ وبملت-1200-1404/09/19,no_signals_or_low_gain
+ومپنا2,مديريت نيروگاهي ايرانيان مپنا,no_signals_or_low_gain
+خودران,صندوق س صنايع مفيد2-بخشي,blacklist_name
+ضخود1309,اختيارخ خودرو-550-1404/10/03,no_signals_or_low_gain
+سصوفي,سيمان‌ صوفيان‌,no_signals_or_low_gain
+مشهد52,مشاركت ش مشهد52-3ماهه18%,no_signals_or_low_gain
+وخارزم,سرمايه گذاري خوارزمي,no_signals_or_low_gain
+آردينه,نشاسته و گلوكز آردينه,no_signals_or_low_gain
+ونوين,بانك‌اقتصادنوين‌,no_signals_or_low_gain
+سكه0411پ05,تمام سكه طرح جديد0411 آينده,no_signals_or_low_gain
+آفاق,صندوق س نوع دوم افق آتي-ثابت,blacklist_name
+شپلي,پلي اكريل ايران,no_signals_or_low_gain
+وپترو2,سرمايه‌گذاري صنايع پتروشيمي‌,no_signals_or_low_gain
+اوان,مبين وان كيش,no_signals_or_low_gain
+ومعادن,توسعه‌معادن‌وفلزات‌,no_signals_or_low_gain
+مهرمام,مهرمام ميهن,no_signals_or_low_gain
+خبهمن,گروه‌بهمن‌,no_signals_or_low_gain
+ثبهساز,بهساز كاشانه تهران,no_signals_or_low_gain
+ومعادن2,توسعه‌معادن‌وفلزات‌,no_signals_or_low_gain
+ختراك,ريخته‌گري‌ تراكتورسازي‌ ايران‌,no_signals_or_low_gain
+نيلي,صندوق س. نوع دوم نيلي دماوند-د,blacklist_name
+آلا,صندوق س.اعتماد ارغوان-د,blacklist_name
+ضخود1308,اختيارخ خودرو-500-1404/10/03,no_signals_or_low_gain
+ومپنا,مديريت نيروگاهي ايرانيان مپنا,no_signals_or_low_gain
+وپاسار,بانك  پاسارگاد,no_signals_or_low_gain
+بترانس,ايران‌ ترانسفو,no_signals_or_low_gain
+شاراك,پتروشيمي شازند,no_signals_or_low_gain
+آرام,صندوق س شاخصي آرام مفيد,blacklist_name
+خاتم,صندوق س خاتم ايساتيس پويا-ثابت,blacklist_name
+زعف0510پ11,زعفران0510نگين سحرخيز(پ),no_signals_or_low_gain
+بركت,گروه دارويي بركت,no_signals_or_low_gain
+خفولا,خدمات فني فولاد يزد,no_signals_or_low_gain
+دامين,داروسازي‌ امين‌,no_signals_or_low_gain
+پارس,پتروشيمي پارس,no_signals_or_low_gain
+اكتان,صندوق س صنايع مفيد4-بخشي,blacklist_name
+خكاوه,سايپا ديزل,no_signals_or_low_gain
+پترول,گ.س.وت.ص.پتروشيمي خليج فارس,no_signals_or_low_gain
+سرو,صندوق س سروسودمند مدبران-سهام,blacklist_name
+صبا,گروه مالي صبا تامين,no_signals_or_low_gain
+انار,صندوق س.انارنماد ارزش-درسهام,blacklist_name
+شبندر4,پالايش نفت بندرعباس,no_signals_or_low_gain
+گلديس,صندوق س.پشتوانه طلا گلديس نوين,blacklist_name
+ضملت9032,اختيارخ وبملت-1300-1404/09/19,no_signals_or_low_gain
+زفكا,كشت و دامداري فكا,no_signals_or_low_gain
+ضهرم1026,اختيارخ اهرم-28000-1404/10/24,no_signals_or_low_gain
+هدف,ص.س.دثابت مشترك صباي هدف-د,blacklist_name
+خموتور,موتورسازان‌تراكتورسازي‌ايران‌,no_signals_or_low_gain
+رزگلد,صندوق س.پشتوانه طلا آرمان آتي,blacklist_name
+فاراك,ماشين‌ سازي‌ اراك‌,no_signals_or_low_gain
+فماك2,ماداكتو استيل كرد,no_signals_or_low_gain
+حتايد,تايدواترخاورميانه,no_signals_or_low_gain
+شيران,س. صنايع‌شيميايي‌ايران,no_signals_or_low_gain
+رمپنا2,گروه مپنا (سهامي عام),no_signals_or_low_gain
+شبهرن,نفت‌ بهران‌,no_signals_or_low_gain
+سمان,صندوق س ثروت پويا-بخشي,blacklist_name
+ماديرا,صنايع ماديران,no_signals_or_low_gain
+خورشيد,صندوق س. طلوع تدبير پايا-د,blacklist_name
+پخش,پخش البرز,no_signals_or_low_gain
+شيراز,پتروشيمي‌شيراز,no_signals_or_low_gain
+سباقر,سيمان باقران,no_signals_or_low_gain
+وسينا,بانك سينا,no_signals_or_low_gain
+افق,فروشگاههاي زنجيره اي افق كوروش,no_signals_or_low_gain
+سدور,سيمان‌ دورود,no_signals_or_low_gain
+كاوه,فولاد كاوه جنوب كيش,no_signals_or_low_gain
+سپاها,سيمان‌سپاهان‌,no_signals_or_low_gain
+اگ041212,گام بانك ملت0412,no_signals_or_low_gain
+طلوع,صندوق س.طلوع نوين ثابت-د,blacklist_name
+دسبحان2,سبحان دارو,no_signals_or_low_gain
+ضهرم1124,اختيارخ اهرم-28000-1404/11/29,no_signals_or_low_gain
+ضهرم9018,اختيارخ اهرم-22000-1404/09/26,no_signals_or_low_gain
+بيوتيك,آنتي بيوتيك سازي ايران,no_signals_or_low_gain
+نفيس,صندوق س.پشتوانه طلاي صبا,blacklist_name
+آپ2,آسان پرداخت پرشين,no_signals_or_low_gain
+فاخر,صندوق س.ثروت افزون فاخر-د,blacklist_name
+دسبحان,سبحان دارو,no_signals_or_low_gain
+اخزا301,اسناد خزانه-م1-س.قوا03-060615,no_signals_or_low_gain
+هجرت,پخش هجرت,no_signals_or_low_gain
+شكام,صنايع شيميايي كيمياگران امروز,no_signals_or_low_gain
+الكتروماد,صنايع الكترونيك ماديران,no_signals_or_low_gain
+محتشم,نساجي هديه البرز مشهد,no_signals_or_low_gain
+حسينا,توسعه خدمات دريايي وبندري سينا,no_signals_or_low_gain
+زعف0510پ26,زعفران0510نگين بديعي(پ),no_signals_or_low_gain
+سامان,بانك سامان,no_signals_or_low_gain
+چكاپا,گروه صنايع كاغذ پارس,no_signals_or_low_gain
+شبريز4,پالايش نفت تبريز,no_signals_or_low_gain
+كليد,صندوق س خانه آگاه-املاك,blacklist_name
+غنوش,نوش‌ مازندران‌,no_signals_or_low_gain
+ضستا1053,اختيارخ شستا-1510-1404/10/10,no_signals_or_low_gain
+وپست,پست بانك ايران,no_signals_or_low_gain
+سهرمز,سيمان‌هرمزگان‌,no_signals_or_low_gain
+فرابورس,فرابورس ايران,no_signals_or_low_gain
+زقيام,كشت و دام قيام اصفهان,no_signals_or_low_gain
+دكپسول,توليد ژلاتين كپسول ايران,no_signals_or_low_gain
+خپارس,پارس خودرو,no_signals_or_low_gain
+ضستا1051,اختيارخ شستا-1310-1404/10/10,no_signals_or_low_gain
+كماسه,تامين‌ ماسه‌ ريخته‌گري‌,no_signals_or_low_gain
+بفجر2,فجر انرژي خليج فارس,no_signals_or_low_gain
+ونيكي,سرمايه‌گذاري‌ ملي‌ايران‌,no_signals_or_low_gain
+ثتوسا,س.توسعه و عمران استان اردبيل,no_signals_or_low_gain
+زمرد كوروش4,صندوق س زمرد كوروش-ثابت,blacklist_name
+دي سهام,صندوق س.دي سهام-سهام,blacklist_name
+نمك,صندوق س.بخشي گستره فيروزه3	-ب,blacklist_name
+هم تراز,صندوق س شاخصي هم وزن تراز-سهام,blacklist_name
+وشهر,بانك شهر,no_signals_or_low_gain
+انرژي,بورس انرژي ايران,no_signals_or_low_gain
+سرچشمه,سرمايه گذاري مس سرچشمه,no_signals_or_low_gain
+گنجينه,صندوق س. گنجينه داريوش-د,blacklist_name
+درنا,صندوق س.پشتوانه طلاي درنا,blacklist_name
+وآيند,بانك  آينده,no_signals_or_low_gain
+حآفرين,ريل پرداز نو آفرين,no_signals_or_low_gain
+وبانك,سرمايه گذاري گروه توسعه ملي,no_signals_or_low_gain
+صايند,صندوق س. گنجينه آينده روشن-د,blacklist_name
+پاكشو,گروه صنعتي پاكشو,no_signals_or_low_gain
+فخوز,فولاد  خوزستان,no_signals_or_low_gain
+ميهن,بيمه ميهن,no_signals_or_low_gain
+خصدرا,صنعتي‌ دريايي‌ ايران‌,no_signals_or_low_gain
+فطلوع,طلوع فولاد پارس,no_signals_or_low_gain
+سيمانو,صندوق س صنايع مفيد3- بخشي,blacklist_name
+كرازي,كارخانجات‌توليدي‌شيشه‌رازي‌,no_signals_or_low_gain
+زفارس,كشت وصنعت و دامپروري پگاه فارس,no_signals_or_low_gain
+فاسمين,كالسيمين‌,no_signals_or_low_gain
+كخاك,صنايع‌خاك‌چيني‌ايران‌,no_signals_or_low_gain
+زبينا,كشاورزي و دامپروري بينالود,no_signals_or_low_gain
+آتيه ملت,صندوق س آتيه ملت-ثابت,blacklist_name
+بالبر,كابل‌ البرز,no_signals_or_low_gain
+تسه1403,امتياز تسهيلات مسكن سال1403,blacklist_name
+غزر,صنعتي زر ماكارون,no_signals_or_low_gain
+ثاخت,بين‌المللي‌توسعه‌ساختمان,no_signals_or_low_gain
+شفارس,صنايع‌ شيميايي‌ فارس‌,no_signals_or_low_gain
+شپاكسا,پاكسان‌,no_signals_or_low_gain
+ضهرم1025,اختيارخ اهرم-26000-1404/10/24,no_signals_or_low_gain
+سقاين,سيمان‌ قائن‌,no_signals_or_low_gain
+ساروم,سيمان‌اروميه‌,no_signals_or_low_gain
+ميدكو,توسعه معادن وص.معدني خاورميانه,no_signals_or_low_gain
+وصنا,گروه‌صنايع‌بهشهرايران‌,no_signals_or_low_gain
+شاروم,پتروشيمي اروميه,no_signals_or_low_gain
+شگويا,پتروشيمي تندگويان,no_signals_or_low_gain
+دارا,صندوق س. دارا الگوريتم-د,blacklist_name
+زفجر,كشاورزي و دامپروري فجر اصفهان,no_signals_or_low_gain
+فسوژ,سوژميران,no_signals_or_low_gain
+غديس,پاكديس,no_signals_or_low_gain
+شگستر,گسترش سوخت سبززاگرس(سهامي عام),no_signals_or_low_gain
+حفارس,حمل و نقل بين المللي خليج فارس,no_signals_or_low_gain
+فولاي,صنايع فولاد آلياژي يزد,no_signals_or_low_gain
+ضملت1008,اختيارخ وبملت-1200-1404/10/17,no_signals_or_low_gain
+طهرم1125,اختيارف اهرم-30000-1404/11/29,no_signals_or_low_gain
+امين يكم,صندوق درآمد ثابت امين يكم فردا,blacklist_name
+چدن,توليدي چدن سازان,no_signals_or_low_gain
+ثمسكن,سرمايه‌گذاري‌ مسكن‌,no_signals_or_low_gain
+معدن,صندوق س صنايع مفيد6- بخشي,blacklist_name
+غاذر,كشت‌وصنعت‌پياذر,no_signals_or_low_gain
+ثشاهد,سرمايه‌ گذاري‌ شاهد,no_signals_or_low_gain
+حبندر,دريايي و کشتيراني خط دريابندر,no_signals_or_low_gain
+خودكفا,اقتصادي و خودكفايي آزادگان,no_signals_or_low_gain
+ضصاد1166,اختيارخ وبصادر-550-1404/11/21,no_signals_or_low_gain
+بترانسح,ح . ايران‌ ترانسفو,no_signals_or_low_gain
+ضسپا9015,اختيارخ خساپا-500-1404/09/26,no_signals_or_low_gain
+آريا,پليمر آريا ساسول,no_signals_or_low_gain
+دسينا,داروسازي‌ سينا,no_signals_or_low_gain
+كسعدي,كاشي‌ سعدي‌,no_signals_or_low_gain
+واحيا,م .صنايع و معادن احياء سپاهان,no_signals_or_low_gain
+دلقما,دارويي‌ لقمان‌,no_signals_or_low_gain
+شاوان,پالايش نفت لاوان,no_signals_or_low_gain
+بلوط,صندوق س شكوه بامداد زاگرس-ثابت,blacklist_name
+استيل,صندوق س صنايع مفيد1- بخشي,blacklist_name
+پتوسعه,س. و توسعه صنايع لاستيك,no_signals_or_low_gain
+وغدير4,سرمايه‌گذاري‌غدير(هلدينگ‌,no_signals_or_low_gain
+كپارس,كاشي‌ پارس‌,no_signals_or_low_gain
+شمس,توليد انرژي برق شمس پاسارگاد,no_signals_or_low_gain
+فملي2,ملي‌ صنايع‌ مس‌ ايران‌,no_signals_or_low_gain
+شهر,گروه مالي شهر,no_signals_or_low_gain
+كروميت,توسعه معادن كروميت كاوندگان,no_signals_or_low_gain
+بنكر,صندوق س صنايع انديشه صبا2-بخشي,blacklist_name
+وسديد,گروه ‌صنعتي‌سديد,no_signals_or_low_gain
+شراز,پالايش نفت شيراز,no_signals_or_low_gain
+آكام,صندوق س. نوع دوم آكام-د,blacklist_name
+خشرق,الكتريك‌ خودرو شرق‌,no_signals_or_low_gain
+بنيرو,نيروترانس‌,no_signals_or_low_gain
+وكار,بانك‌ كارآفرين‌,no_signals_or_low_gain
+گدنا,تهيه توزيع غذاي دنا آفرين فدك,no_signals_or_low_gain
+شگل,گلتاش‌,no_signals_or_low_gain
+سلام,صندوق س سلام فارابي-سهام,blacklist_name
+شبصير,توليدات پتروشيمي قائد بصير,no_signals_or_low_gain
+بهپاك,صنعتي بهپاك,no_signals_or_low_gain
+نان,صنايع غذايي رضوي,no_signals_or_low_gain
+تپكو,توليدتجهيزات‌سنگين‌هپكو,no_signals_or_low_gain
+خوشه,ص.س.صندوق در صندوق خوشه گندم,blacklist_name
+سفارس,سيمان فارس و خوزستان,no_signals_or_low_gain
+سغدير2,توسعه سرمايه و صنعت غدير,no_signals_or_low_gain
+خبرنا,توليدي برنا باطري,no_signals_or_low_gain
+وسكاب,س.ص.بازنشستگي كاركنان بانكها,no_signals_or_low_gain
+تيپيكو,سرمايه گذاري دارويي تامين,no_signals_or_low_gain
+ضهرم1023,اختيارخ اهرم-22000-1404/10/24,no_signals_or_low_gain
+دفارا,داروسازي‌ فارابي‌,no_signals_or_low_gain
+زعف0510پ20,زعفران0510نگين وحدت جام(پ),no_signals_or_low_gain
+پكرمان,گروه‌ صنعتي‌ بارز,no_signals_or_low_gain
+فسبزوار,پارس فولاد سبزوار,no_signals_or_low_gain
+جم,پتروشيمي جم,no_signals_or_low_gain
+فسازان,غلتك سازان سپاهان,no_signals_or_low_gain
+وسپهح,ح . سرمايه‌گذاري‌ سپه‌,no_signals_or_low_gain
+فپنتا,سپنتا,no_signals_or_low_gain
+ثشرق,سرمايه گذاري مسكن شمال شرق,no_signals_or_low_gain
+قثابت,قند ثابت‌ خراسان‌,no_signals_or_low_gain
+دكوثر,داروسازي‌ كوثر,no_signals_or_low_gain
+فجر,فولاد اميركبيركاشان,no_signals_or_low_gain
+آريان,سرمايه گذاري پارس آريان,no_signals_or_low_gain
+درازك,دارويي‌ رازك‌,no_signals_or_low_gain
+سرود,سيمان‌شاهرود,no_signals_or_low_gain
+ضذوب1018,اختيارخ ذوب-380-1404/10/17,no_signals_or_low_gain
+وتوشه,سرمايه‌ گذاري‌ پارس‌ توشه‌,no_signals_or_low_gain
+توسن,توسعه سامانه ي نرم افزاري نگين,no_signals_or_low_gain
+ممسني2,پتروشيمي ممسني,no_signals_or_low_gain
+سدبير2,س. تدبيرگران فارس وخوزستان,no_signals_or_low_gain
+پتاير,ايران‌ تاير,no_signals_or_low_gain
+ضذوب1017,اختيارخ ذوب-360-1404/10/17,no_signals_or_low_gain
+حگهر,حمل و نقل گهرترابر سيرجان,no_signals_or_low_gain
+ضهرم9020,اختيارخ اهرم-26000-1404/09/26,no_signals_or_low_gain
+آرامش,صندوق سرمايه گذاري آرامش-ثابت,blacklist_name
+بورس,بورس اوراق بهادار تهران,blacklist_name
+وخاور,بانك خاورميانه,no_signals_or_low_gain
+آباد,توريستي ورفاهي آبادگران ايران,no_signals_or_low_gain
+وگردش,بانك گردشگري,no_signals_or_low_gain
+فن افزار,توسعه فن افزار توسن,no_signals_or_low_gain
+سيسكو,فولاد سيرجان ايرانيان,no_signals_or_low_gain
+كطبس,ذغال‌سنگ‌ نگين‌ ط‌بس‌,no_signals_or_low_gain
+فنر,پارس فنر,no_signals_or_low_gain
+آلياژ,صندوق س صنايع آگاه3-بخشي,blacklist_name
+خنور,نورايستا پلاستيك,no_signals_or_low_gain
+سآبيك,سيمان آبيك,no_signals_or_low_gain
+والبر,سرمايه‌ گذاري‌ البرز(هلدينگ‌,no_signals_or_low_gain
+مارون,پتروشيمي مارون,no_signals_or_low_gain
+ختور,رادياتور ايران‌,no_signals_or_low_gain
+بكاب,صنايع‌جوشكاب‌يزد,no_signals_or_low_gain
+تليسه,دامداري تليسه نمونه,no_signals_or_low_gain
+اسياتك,انتقال داده هاي آسياتك,no_signals_or_low_gain
+سخوز,سيمان خوزستان,no_signals_or_low_gain
+شكربن,كربن‌ ايران‌,no_signals_or_low_gain
+وساخت,سرمايه‌ گذاري‌ ساختمان‌ايران‌,no_signals_or_low_gain
+فاذر,صنايع‌ آذرآب‌,no_signals_or_low_gain
+ضفلا1410,اختيارخ فولاد-3250-1404/11/08,no_signals_or_low_gain
+هوشمند,صندوق س شاخصي شفق رابين,blacklist_name
+خكار,ايركا پارت صنعت,no_signals_or_low_gain
+جوانه كوچك,صندوق س.جوانه كوچك گندم-سهام,blacklist_name
+داترا,آترا زيست آراي,no_signals_or_low_gain
+قصفها,قنداصفهان‌,no_signals_or_low_gain
+كفرا,فراورده‌ هاي‌ نسوزايران‌,no_signals_or_low_gain
+اپال,فرآوري معدني اپال كاني پارس,no_signals_or_low_gain
+ميهنح2,ح . بيمه ميهن,no_signals_or_low_gain
+جوين,كشت و صنعت جوين,no_signals_or_low_gain
+گشان,توسعه بين المللي پديده شانديز,no_signals_or_low_gain
+وسبحان2,سرمايه گذاري سبحان,no_signals_or_low_gain
+هرمز,فولاد هرمزگان جنوب,no_signals_or_low_gain
+كيمياتك,آريان كيميا تك,no_signals_or_low_gain
+ومعادن4,توسعه‌معادن‌وفلزات‌,no_signals_or_low_gain
+غبشهر,صنعتي‌ بهشهر,no_signals_or_low_gain
+ونفت,سرمايه‌گذاري‌ صنعت‌ نفت‌,no_signals_or_low_gain
+قرن,پديده شيمي قرن,no_signals_or_low_gain
+ضملت1009,اختيارخ وبملت-1300-1404/10/17,no_signals_or_low_gain
+فجهان,جهان فولاد سيرجان,no_signals_or_low_gain
+كربن,كاني كربن طبس,no_signals_or_low_gain
+ضفلا1409,اختيارخ فولاد-3000-1404/11/08,no_signals_or_low_gain
+ضهرم1024,اختيارخ اهرم-24000-1404/10/24,no_signals_or_low_gain
+ثنوسا,نوسازي‌وساختمان‌تهران‌,no_signals_or_low_gain
+پتروآگاه,صندوق س صنايع آگاه1-بخشي,blacklist_name
+سيستم,همكاران سيستم,no_signals_or_low_gain
+كوثر,بيمه كوثر,no_signals_or_low_gain
+پكوير,كوير تاير,no_signals_or_low_gain
+فايرا,آلومينيوم‌ايران‌,no_signals_or_low_gain
+تكشا,گسترش‌صنايع‌وخدمات‌كشاورزي‌,no_signals_or_low_gain
+ضخود1310,اختيارخ خودرو-600-1404/10/03,no_signals_or_low_gain
+ثغرب,شركت سرمايه گذاري مسكن شمالغرب,no_signals_or_low_gain
+فارماني,صندوق س آرمان آتي- بخشي,blacklist_name
+لكما,كارخانجات‌مخابراتي‌ايران‌,no_signals_or_low_gain
+ولملت,واسپاري ملت,no_signals_or_low_gain
+شفن,پتروشيمي فناوران,no_signals_or_low_gain
+پارسيان,بيمه پارسيان,no_signals_or_low_gain
+فلزفارابي,صندوق س.بخشي فلز فارابي-ب,blacklist_name
+سخزر,سيمان‌ خزر,no_signals_or_low_gain
+بهين رو,صندوق س صنايع ويستا1-بخشي,blacklist_name
+سيمرغ,سيمرغ,no_signals_or_low_gain
+اتوآگاه,صندوق س صنايع آگاه2-بخشي,blacklist_name
+كاذر,فرآورده‌هاي‌نسوزآذر,no_signals_or_low_gain
+غمايه,شركت خميرمايه رضوي,no_signals_or_low_gain
+بمپنا,توليد برق عسلويه  مپنا,no_signals_or_low_gain
+شنفت,نفت‌ پارس‌,no_signals_or_low_gain
+غگلستا,شير پاستوريزه پگاه گلستان,no_signals_or_low_gain
+فالوم,آلومتك,no_signals_or_low_gain
+زكوثر,سرمايه گذاري كشاورزي كوثر,no_signals_or_low_gain
+وبرق,س.کارکنان صنعت برق زنجان وقزوي,no_signals_or_low_gain
+پايش,ص.س. درآمد ثابت پايش-د,blacklist_name
+زماهان,مجتمع توليد گوشت مرغ ماهان,no_signals_or_low_gain
+ترنج ثابت,ص.س.درآمد ثابت ترنج سودمند-د,blacklist_name
+فلامي,لاميران‌,no_signals_or_low_gain
+قچار,فراوردههاي غذايي وقند چهارمحال,no_signals_or_low_gain
+بالاس,مهندسي ساختمان تاسيسات راه آهن,no_signals_or_low_gain
+طستا1053,اختيارف شستا-1510-1404/10/10,no_signals_or_low_gain
+كايزد,فرانسوز يزد,no_signals_or_low_gain
+ختوقا,قطعات‌ اتومبيل‌ ايران‌,no_signals_or_low_gain
+پاسا,ايران‌ياساتايرورابر,no_signals_or_low_gain
+كحافظ,كاشي‌ وسراميك‌ حافظ‌,no_signals_or_low_gain
+فرود,فولاد شاهرود,no_signals_or_low_gain
+ودي,بيمه  دي,no_signals_or_low_gain
+زملارد,كشاورزي و دامپروري ملارد شير,no_signals_or_low_gain
+فلوله,لوله‌وماشين‌سازي‌ايران‌,no_signals_or_low_gain
+حشكوه,دليجان طلايي شكوه پارس,no_signals_or_low_gain
+هاي وب,داده گسترعصرنوين-هاي وب,no_signals_or_low_gain
+بشهاب,لامپ‌  پارس‌ شهاب‌,no_signals_or_low_gain
+دابور,داروسازي‌ ابوريحان‌,no_signals_or_low_gain
+ضذوب9027,اختيارخ ذوب-340-1404/09/19,no_signals_or_low_gain
+چنوپا,نيوپان‌ 22 بهمن‌,no_signals_or_low_gain
+وايران,ليزينگ ايرانيان,no_signals_or_low_gain
+تايرا,تراكتورسازي‌ايران‌,no_signals_or_low_gain
+اخزا210,اسنادخزانه-م10بودجه02-051112,no_signals_or_low_gain
+ضخود1307,اختيارخ خودرو-450-1404/10/03,no_signals_or_low_gain
+ضجار1074,اختيارخ وتجارت-450-1404/10/17,no_signals_or_low_gain
+ثاميد,توسعه و عمران اميد,no_signals_or_low_gain
+ضصاد9030,اختيارخ وبصادر-550-1404/09/19,no_signals_or_low_gain
+كپشير,پشم‌شيشه‌ايران‌,no_signals_or_low_gain
+رپويا,پويا,no_signals_or_low_gain
+فسپا,گروه‌صنعتي‌سپاهان‌,no_signals_or_low_gain
+وخاور4,بانك خاورميانه,no_signals_or_low_gain
+ضصاد9029,اختيارخ وبصادر-500-1404/09/19,no_signals_or_low_gain
+آواك,صنايع ارتباطي آوا,no_signals_or_low_gain
+اردستان,سيمان اردستان,no_signals_or_low_gain
+سمازن,سيمان‌مازندران‌,no_signals_or_low_gain
+دانا,بيمه دانا,no_signals_or_low_gain
+غپآذر,شير پگاه آذربايجان شرقي,no_signals_or_low_gain
+بهامرز,بيمه زندگي هامرز,no_signals_or_low_gain
+ضخود1153,اختيارخ خودرو-550-1404/11/01,no_signals_or_low_gain
+كاريس,صندوق س.سپند كاريزما-س,blacklist_name
+همراه,شركت ارتباطات سيار ايران,no_signals_or_low_gain
+خراسان,پتروشيمي خراسان,no_signals_or_low_gain
+دبالك,مواد اوليه دارويي البرز بالك,no_signals_or_low_gain
+ضهرم9021,اختيارخ اهرم-28000-1404/09/26,no_signals_or_low_gain
+سصفها,سيمان‌اصفهان‌,no_signals_or_low_gain
+فسرب,ملي‌ سرب‌وروي‌ ايران‌,no_signals_or_low_gain
+ضخود1154,اختيارخ خودرو-600-1404/11/01,no_signals_or_low_gain
+وپترو,سرمايه‌گذاري صنايع پتروشيمي‌,no_signals_or_low_gain
+كلر,كلر پارس,no_signals_or_low_gain
+فبيرا,بسته‌ بندي‌ ايران‌,no_signals_or_low_gain
+خبنيان,بنيان ديزل,no_signals_or_low_gain
+شپنا4,پالايش نفت اصفهان,no_signals_or_low_gain
+غكورش2,صنعت غذايي كورش,no_signals_or_low_gain
+سهرمز4,سيمان‌هرمزگان‌,no_signals_or_low_gain
+فخاس,فولاد خراسان,no_signals_or_low_gain
+سخاش,سيمان‌خاش‌,no_signals_or_low_gain
+رتاپ,تجارت الكترونيك  پارسيان,no_signals_or_low_gain
+دلر,داروسازي‌ اكسير,no_signals_or_low_gain
+كسرام,پارس‌ سرام‌,no_signals_or_low_gain
+سجام,مجتمع سيمان غرب آسيا,no_signals_or_low_gain
+ريشمك,توليد و صادرات ريشمك,no_signals_or_low_gain
+آلكان,صندوق راهبرصنايع مهرگان1-بخشي,blacklist_name
+آسيا,بيمه آسيا,no_signals_or_low_gain
+غپينو,پارس‌ مينو,no_signals_or_low_gain
+ضهرم1027,اختيارخ اهرم-30000-1404/10/24,no_signals_or_low_gain
+دجابر,داروسازي‌ جابرابن‌حيان‌,no_signals_or_low_gain
+كترام,توليدي‌ كاشي‌ تكسرام‌,no_signals_or_low_gain
+ضهرم9019,اختيارخ اهرم-24000-1404/09/26,no_signals_or_low_gain
+فملي4,ملي‌ صنايع‌ مس‌ ايران‌,no_signals_or_low_gain
+پي پاد,پرداخت الكترونيك پاسارگاد,no_signals_or_low_gain
+دارو,كارخانجات‌داروپخش‌,no_signals_or_low_gain
+سيتا,سرمايه گذاري سيمان تامين,no_signals_or_low_gain
+پتروصبا,صندوق س صنايع انديشه صبا1-بخشي,blacklist_name
+فنوال,نورد آلومينيوم‌,no_signals_or_low_gain
+فولاژ,فولاد آلياژي ايران,no_signals_or_low_gain
+وبهمن2,سرمايه‌گذاري‌بهمن‌,no_signals_or_low_gain
+كوانتوم,صندوق س. كوانتوم بهاوند-س,blacklist_name
+شيران2,س. صنايع‌شيميايي‌ايران,no_signals_or_low_gain
+بانكا,صندوق س صنايع آگاه4-بخشي,blacklist_name
+شدوص,دوده‌ صنعتي‌ پارس‌,no_signals_or_low_gain
+قشير,قند شيروان قوچان و بجنورد,no_signals_or_low_gain
+دتوزيع,توزيع دارو پخش,no_signals_or_low_gain
+زشگزا,شير و گوشت زاگرس شهركرد,no_signals_or_low_gain
+آسان,صندوق س.مشترك گنجينه مهر-د,blacklist_name
+تجلي,تجلي توسعه معادن و فلزات,no_signals_or_low_gain
+شكام2,صنايع شيميايي كيمياگران امروز,no_signals_or_low_gain
+عاليس,بهار رز عاليس چناران,no_signals_or_low_gain
+جم پيلن,پتروشيمي جم پيلن,no_signals_or_low_gain
+خيمن,ايمن خودرو شرق,no_signals_or_low_gain
+بمولد,مولد نيروگاهي تجارت فارس,no_signals_or_low_gain
+ضجار1075,اختيارخ وتجارت-500-1404/10/17,no_signals_or_low_gain
+حتوكا,حمل‌ونقل‌توكا,no_signals_or_low_gain
+ددانا,داروسازي دانا,no_signals_or_low_gain
+وبهمن,سرمايه‌گذاري‌بهمن‌,no_signals_or_low_gain
+ساوه,سيمان ساوه,no_signals_or_low_gain
+ددام,داروسازي زاگرس فارمد پارس,no_signals_or_low_gain
+ضسپا1040,اختيارخ خساپا-500-1404/10/24,no_signals_or_low_gain
+كاشانه,ص.س املاك وم.كاشانه خليج فارس,blacklist_name
+زدشت,كشت و صنعت دشت خرم دره,no_signals_or_low_gain
+فزرين,زرين معدن آسيا,no_signals_or_low_gain
+كارما,صندوق س.درآمد ثابت كيهان-د,blacklist_name
+طهرم1026,اختيارف اهرم-28000-1404/10/24,no_signals_or_low_gain
+ضتوان913,اختيارخ توان-24000-14040923,no_signals_or_low_gain
+مبين,مبين انرژي خليج فارس,no_signals_or_low_gain
+خكرمان,سرمايه گذاري آرمان گستر پاريز,no_signals_or_low_gain
+فافزا,فولاد افزا سپاهان,no_signals_or_low_gain
+تملت,تامين سرمايه بانك ملت,no_signals_or_low_gain
+خكمك,كمك‌فنرايندامين‌,no_signals_or_low_gain
+شملي,ملي شيمي كشاورز,no_signals_or_low_gain
+غگرجي,بيسكويت‌  گرجي‌,no_signals_or_low_gain
+رايكا,صندوق س نوع دوم رايكا- ثابت,blacklist_name
+شفام,توليدي و صنعتي گوهرفام,no_signals_or_low_gain
+لازما,كارخانه هاي صنعتي آزمايش,no_signals_or_low_gain
+بميلا,توسعه سرمايه گذاري ميلاد پارس,no_signals_or_low_gain
+ضسپا9014,اختيارخ خساپا-400-1404/09/26,no_signals_or_low_gain
+كنور,توسعه معدني و صنعتي صبانور,no_signals_or_low_gain
+ولساپا,ليزينگ رايان‌ سايپا,no_signals_or_low_gain
+غناب,روغن‌ نباتي‌ ناب,no_signals_or_low_gain
+غكورش,صنعت غذايي كورش,no_signals_or_low_gain
+شغدير,پتروشيمي غدير,no_signals_or_low_gain
+خرينگ,رينگ‌سازي‌مشهد,no_signals_or_low_gain
+سبزوا,سيمان لار سبزوار,no_signals_or_low_gain
+تنوين,تامين سرمايه نوين,no_signals_or_low_gain
+خوساز,محورسازان‌ايران‌خودرو,no_signals_or_low_gain
+كسرا,سراميك‌هاي‌صنعتي‌اردكان‌,no_signals_or_low_gain
+ولصنم,ليزينگ‌صنعت‌ومعدن‌,no_signals_or_low_gain
+خمحور,توليدمحورخودرو,no_signals_or_low_gain
+تپمپي,پمپ‌ سازي‌ ايران‌,no_signals_or_low_gain
+ديران,ايران‌دارو,no_signals_or_low_gain
+غگل,گلوكوزان‌,no_signals_or_low_gain
+قمرو,قند مرودشت‌,no_signals_or_low_gain
+هامون,صندوق س. سهام ثروت هامون-س,blacklist_name
+كاسپين,داروسازي كاسپين تامين,no_signals_or_low_gain
+زكشت,كشاورزي مكانيزه اصفهان كشت,no_signals_or_low_gain
+دزهراوي,داروسازي‌زهراوي‌,no_signals_or_low_gain
+خمهر,مهركام‌پارس‌,no_signals_or_low_gain
+البرز,بيمه البرز,no_signals_or_low_gain
+ضهرم1123,اختيارخ اهرم-26000-1404/11/29,no_signals_or_low_gain
+سغدير,توسعه سرمايه و صنعت غدير,no_signals_or_low_gain
+ضذوب9025,اختيارخ ذوب-300-1404/09/19,no_signals_or_low_gain
+شسينا,صنايع‌شيميايي‌سينا,no_signals_or_low_gain
+غشهداب,كشت و صنعت شهداب ناب خراسان,no_signals_or_low_gain
+سبجنو,سيمان‌ بجنورد,no_signals_or_low_gain
+داوه,داروسازي آوه سينا,no_signals_or_low_gain
+بزاگرس,نيروگاه زاگرس كوثر,no_signals_or_low_gain
+زگلدشت,كشت و دام گلدشت نمونه اصفهان,no_signals_or_low_gain
+طستا1052,اختيارف شستا-1410-1404/10/10,no_signals_or_low_gain
+خديزل,بهمن  ديزل,no_signals_or_low_gain
+ولراز,ليزينگ رازي,no_signals_or_low_gain
+درهآور,دارويي ره آورد تامين,no_signals_or_low_gain
+قشرين,قند شيرين خراسان,no_signals_or_low_gain
+حريل,ريل پردازسير,no_signals_or_low_gain
+شوينده,مديريت صنعت شوينده ت.ص.بهشهر,no_signals_or_low_gain
+ساينا,صنايع بهداشتي ساينا,no_signals_or_low_gain
+خبرگان,صندوق س انديشه خبرگان-سهام,blacklist_name
+دقاضي,داروسازي شهيد قاضي,no_signals_or_low_gain
+وگستر,گسترش سرمايه گذاري ايرانيان,no_signals_or_low_gain
+وسرمد2,بيمه  سرمد,no_signals_or_low_gain
+غپاك,لبنيات‌ پاك‌,no_signals_or_low_gain
+همگام,صندوق س. درآمد ثابت همگام-د,blacklist_name
+دالبر,البرزدارو,no_signals_or_low_gain
+ضموج914,اختيارخ موج-28000-14040923,no_signals_or_low_gain
+بفجر,فجر انرژي خليج فارس,no_signals_or_low_gain
+زعف0510پ05,زعفران0510نگين زرين(پ),no_signals_or_low_gain
+ضملت1007,اختيارخ وبملت-1100-1404/10/17,no_signals_or_low_gain
+خمحركه,نيرو محركه‌,no_signals_or_low_gain
+دسبحا,گروه دارويي سبحان,no_signals_or_low_gain
+بمان,صندوق س.بازده مانا-د,blacklist_name
+صنم,ص.س.صندوق در صندوق صنم,blacklist_name
+مكرج412,مشاركت ش كرج412-3ماهه18%,no_signals_or_low_gain
+سپيد,سپيد ماكيان,no_signals_or_low_gain
+كدما,معدني‌ دماوند,no_signals_or_low_gain
+وثنو,سرمايه گذاري ساختماني نوين,no_signals_or_low_gain
+دپارس,پارس‌ دارو,no_signals_or_low_gain
+قاسم,قاسم ايران,no_signals_or_low_gain
+غمينو,شركت صنايع غذايي مينو شرق,no_signals_or_low_gain
+اپرداز,آتيه داده پرداز,no_signals_or_low_gain
+زشريف,كشت وصنعت شريف آباد,no_signals_or_low_gain
+دتوليد,داروسازي توليد دارو,no_signals_or_low_gain
+شكلر,نيروكلر,no_signals_or_low_gain
+ضذوب9026,اختيارخ ذوب-320-1404/09/19,no_signals_or_low_gain
+حگردش,ريل گردش ايرانيان,no_signals_or_low_gain
+كوير,توليدي فولاد سپيد فراب كوير,no_signals_or_low_gain
+ارزش مسكن,ص.س.املاك ومستغلات ارزش مسكن,blacklist_name
+غدشت,دشت‌ مرغاب‌,no_signals_or_low_gain
+امين,تامين سرمايه امين,no_signals_or_low_gain
+واتي,سرمايه‌ گذاري‌ آتيه‌ دماوند,no_signals_or_low_gain
+ثپرديس,سرمايه گذاري مسكن پرديس,no_signals_or_low_gain
+فافق,صنايع مس افق كرمان,no_signals_or_low_gain
+قجام,فرآوردههاي غذايي وقندتربت‌جام‌,no_signals_or_low_gain
+ضخود1152,اختيارخ خودرو-500-1404/11/01,no_signals_or_low_gain
+وتوكا,سرمايه‌گذاري‌توكافولاد(هلدينگ,no_signals_or_low_gain
+سغرب,سيمان‌غرب‌,no_signals_or_low_gain
+ولنوين,ليزينگ اقتصاد نوين,no_signals_or_low_gain
+لبوتان,گروه‌صنعتي‌بوتان‌,no_signals_or_low_gain
+وبشهر,توسعه‌ صنايع‌ بهشهر(هلدينگ,no_signals_or_low_gain
+پيشران,صندوق س پيشران پارسيان-اهرمي,blacklist_name
+فروي,ذوب روي اصفهان,no_signals_or_low_gain
+وفتخار,سرمايه گذاري افتخار سهام,no_signals_or_low_gain
+آسام,صندوق س.آرمان سپهر آتي-م,blacklist_name
+آبين,كشت و صنعت آبشيرين,no_signals_or_low_gain
+ثزاگرس,سرمايه گذاري توسعه عمران زاگرس,no_signals_or_low_gain
+ارفع,شركت آهن و فولاد ارفع,no_signals_or_low_gain
+فكمند,گسترش قطعه سازي كمند,no_signals_or_low_gain
+سصوفي4,سيمان‌ صوفيان‌,no_signals_or_low_gain
+فصبا,صبا فولاد خليج فارس,no_signals_or_low_gain
+دروز,داروسازي‌ روزدارو,no_signals_or_low_gain
+غويتا,ويتانا,no_signals_or_low_gain
+شپارس,بين‌ المللي‌ محصولات‌  پارس‌,no_signals_or_low_gain
+هيبريد,صندوق س آسمان خاورميانه-مختلط,blacklist_name
+پرتوسا,صندوق س.سهامي پرتو آمال-س,blacklist_name
+طهرم1123,اختيارف اهرم-26000-1404/11/29,no_signals_or_low_gain
+كيا,كيا الكترود شرق,no_signals_or_low_gain
+اخزا212,اسناد خزانه-م12بودجه02-050916,no_signals_or_low_gain
+سخواف,سيمان مجد خواف,no_signals_or_low_gain
+بتهران,بيمه اتكايي تهران رواك,no_signals_or_low_gain
+غپونه,نوش پونه مشهد,no_signals_or_low_gain
+طخود1310,اختيارف خودرو-600-1404/10/03,no_signals_or_low_gain
+ضخود1306,اختيارخ خودرو-400-1404/10/03,no_signals_or_low_gain
+تابا,تابان نيرو سپاهان,no_signals_or_low_gain
+غصينو,صنعتي مينو,no_signals_or_low_gain
+ولتجار,واسپاري تجارايرانيان,no_signals_or_low_gain
+مهر,سرمايه گذاري مهر,no_signals_or_low_gain
+لوتوس,تامين سرمايه لوتوس پارسيان,no_signals_or_low_gain
+ثروتم,صندوق س. ثروت آفرين پارسيان-س,blacklist_name
+قشهد,شهد,no_signals_or_low_gain
+سپيدار,سپيدار سيستم آسيا,no_signals_or_low_gain
+كصدف,كاشي صدف سرام استقلال آباده,no_signals_or_low_gain
+نطرين,عطرين نخ قم,no_signals_or_low_gain
+برليان,صندوق سرمايه گذاري برليان-سهام,blacklist_name
+ساروج,بين المللي ساروج بوشهر,no_signals_or_low_gain
+ركيش,كارت اعتباري ايران كيش,no_signals_or_low_gain
+بكام,كارخانجات توليدي شهيد قندي,no_signals_or_low_gain
+شلعاب,لعابيران‌,no_signals_or_low_gain
+بپيوند,برق و انرژي پيوندگستر پارس,no_signals_or_low_gain
+ضتوان914,اختيارخ توان-26000-14040923,no_signals_or_low_gain
+غبهار,كشت وصنعت بهاران گلبهار خراسان,no_signals_or_low_gain
+دريا,صندوق س درياي آبي فيروزه-سهام,blacklist_name
+ضهرم1122,اختيارخ اهرم-24000-1404/11/29,no_signals_or_low_gain
+وملي,گروه‌ صنعتي‌ ملي‌ (هلدينگ‌,no_signals_or_low_gain
+لطيف,محصولات كاغذي لطيف,no_signals_or_low_gain
+شخارك,پتروشيمي‌ خارك‌,no_signals_or_low_gain
+ضهرم1022,اختيارخ اهرم-20000-1404/10/24,no_signals_or_low_gain
+غشاذر,پگاه‌آذربايجان‌غربي‌,no_signals_or_low_gain
+ضذوب1019,اختيارخ ذوب-400-1404/10/17,no_signals_or_low_gain
+وامين2,سرمايه گذاري امين مهرگان,no_signals_or_low_gain
+غنيلي,مجتمع توليدي نيلي صنعت كرمان,no_signals_or_low_gain
+وهامون,سرمايه گذاري هامون صبا,no_signals_or_low_gain
+نبابك,نساجي بابكان,no_signals_or_low_gain
+ملت,بيمه ملت,no_signals_or_low_gain
+وحافظ,بيمه حافظ,no_signals_or_low_gain
+كساپا,سايپاشيشه‌,no_signals_or_low_gain
+كبافق,معادن‌ بافق‌,no_signals_or_low_gain
+تكپاد,صندوق س. مشترك آريان-س,blacklist_name
+نيرو,نيرو سرمايه,no_signals_or_low_gain
+زنجان,صنايع كشاورزي وكود زنجان,no_signals_or_low_gain
+وپايا,سرمايه گذاري پايا تدبيرپارسا,no_signals_or_low_gain
+وسبحان,سرمايه گذاري سبحان,no_signals_or_low_gain
+دانيك,ص.س.املاك ومستغلات نيك راي,blacklist_name
+فروژ,صنايع فروآلياژ ايران,no_signals_or_low_gain
+درازي,پخش رازي,no_signals_or_low_gain
+زنگان,صنعت روي زنگان,no_signals_or_low_gain
+وپويا,سرمايه گذاري پويا,no_signals_or_low_gain
+ومهان,گروه توسعه مالي مهرآيندگان,no_signals_or_low_gain
+شپترو,پتروشيمي آبادان,no_signals_or_low_gain
+خنصير,مهندسي‌نصيرماشين‌,no_signals_or_low_gain
+ضذوب9028,اختيارخ ذوب-360-1404/09/19,no_signals_or_low_gain
+شرانل,نفت ايرانول,no_signals_or_low_gain
+حپرتو,پرتو بار فرابر خليج فارس,no_signals_or_low_gain
+شاملا,معدني‌ املاح‌  ايران‌,no_signals_or_low_gain
+كمرجان,بازرگاني و توليدي مرجان كار,no_signals_or_low_gain
+انتخاب,گروه انتخاب الكترونيك آرمان,no_signals_or_low_gain
+هامرز,صندوق س اعتماد هامرز-ثابت,blacklist_name
+متال,صندوق س صنايع دايا1-بخشي,blacklist_name
+مديريت,س. و خدمات مديريت صند. ب كشوري,no_signals_or_low_gain
+فلزا,صندوق س.بخشي صنايع پاداش2-ب,blacklist_name
+كساوه,صنايع‌ كاشي‌ و سراميك‌ سينا,no_signals_or_low_gain
+آساس,صندوق س.آسمان آرماني سهام-س,blacklist_name
+قزوين,كارخانجات‌ قند قزوين‌,no_signals_or_low_gain
+وبملت4,بانك ملت,no_signals_or_low_gain
+چفيبر,توليد فيبر ايران‌,no_signals_or_low_gain
+گنگين,گروه اقتصادي مالي نگين,no_signals_or_low_gain
+كفپارس,فرآورده‌هاي‌ نسوز پارس‌,no_signals_or_low_gain

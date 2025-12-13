@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "AI Trading Signals Viewer",
+  "version": "0.1.0",
+  "description": "نمایش 20 نماد برتر و سیگنال‌ها از API پروژه شما",
+  "action": { "default_popup": "popup.html" },
+  "permissions": ["storage"]
+}

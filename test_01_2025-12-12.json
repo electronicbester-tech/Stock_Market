@@ -1,0 +1,50 @@
+[
+  {
+    "symbol": "آسيا",
+    "name": "بيمه آسيا",
+    "sector": "UNKNOWN",
+    "volume": 25380279,
+    "last_price": 1882,
+    "floor": 1879,
+    "ceiling": 2350,
+    "potential_gain_pct": 0.24826340842213374,
+    "rsi14": 30.64498703994225,
+    "approved_by": "bottom_seeker_v1"
+  },
+  {
+    "symbol": "شسپا",
+    "name": "نفت سپاهان",
+    "sector": "نفت_گاز",
+    "volume": 50500091,
+    "last_price": 7494,
+    "floor": 7494,
+    "ceiling": 9047,
+    "potential_gain_pct": 0.20722914228833483,
+    "rsi14": 21.778381127652608,
+    "approved_by": "bottom_seeker_v1"
+  },
+  {
+    "symbol": "فروژ",
+    "name": "صنايع فروآلياژ ايران",
+    "sector": "UNKNOWN",
+    "volume": 26688233,
+    "last_price": 725,
+    "floor": 717,
+    "ceiling": 874,
+    "potential_gain_pct": 0.20553175944185278,
+    "rsi14": 32.63893035642978,
+    "approved_by": "bottom_seeker_v1"
+  },
+  {
+    "symbol": "ضملت9030",
+    "name": "اختيارخ وبملت-1100-1404/09/19",
+    "sector": "UNKNOWN",
+    "volume": 2829406,
+    "last_price": 199,
+    "floor": 196,
+    "ceiling": 239,
+    "potential_gain_pct": 0.20169572681265502,
+    "rsi14": 25.159920865333604,
+    "approved_by": "bottom_seeker_v1"
+  }
+]

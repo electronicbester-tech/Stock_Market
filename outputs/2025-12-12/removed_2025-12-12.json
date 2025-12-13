@@ -1,0 +1,322 @@
+[
+  {
+    "symbol":"دانيك",
+    "name":"ص.س.املاك ومستغلات نيك راي",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"صنم",
+    "name":"ص.س.صندوق در صندوق صنم",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"ارزش مسكن",
+    "name":"ص.س.املاك ومستغلات ارزش مسكن",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"همگام",
+    "name":"صندوق س. درآمد ثابت همگام-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"كاشانه",
+    "name":"ص.س املاك وم.كاشانه خليج فارس",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"كارما",
+    "name":"صندوق س.درآمد ثابت كيهان-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"پايش",
+    "name":"ص.س. درآمد ثابت پايش-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"ترنج ثابت",
+    "name":"ص.س.درآمد ثابت ترنج سودمند-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"بورس",
+    "name":"بورس اوراق بهادار تهران",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"خوشه",
+    "name":"ص.س.صندوق در صندوق خوشه گندم",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"تسه1403",
+    "name":"امتياز تسهيلات مسكن سال1403",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"امين يكم",
+    "name":"صندوق درآمد ثابت امين يكم فردا",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"هدف",
+    "name":"ص.س.دثابت مشترك صباي هدف-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"ماني",
+    "name":"صندوق س. با درآمد ثابت ماني",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"مالك آتيه",
+    "name":"ص.س.املاك و مستغلات مالك آتيه",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"كمند4",
+    "name":"صندوق س. با درآمد ثابت كمند",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"تصميم",
+    "name":"صندوق س با درآمد ثابت تصميم",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"ثابت اكسيژن",
+    "name":"ص.س.درآمد ثابت اكسيژن-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"خزانه ملت",
+    "name":"صندوق س.مختص اوراق دولتي ملت-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"تسه1404",
+    "name":"امتياز تسهيلات مسكن سال1404",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"سام",
+    "name":"صندوق س.درآمد ثابت سام-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2434",
+    "name":"مرابحه عام دولت243-ش.خ070906",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"دوايكس",
+    "name":"ص.س.اهرمي شاخصي كيان-س",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"امين شهر",
+    "name":"ص.س. املاك و مستغلات امين شهر",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"ساحل",
+    "name":"ص.ساحل سرمايه امن خليج فارس-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"ديبا",
+    "name":"صندوق س اوراق دولتي صبا-ثابت",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"كيان4",
+    "name":"صندوق س. با درآمد ثابت كيان",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد225",
+    "name":"مرابحه عام دولت225-ش.خ060814",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"كارآمد",
+    "name":"صندوق س.درآمد ثابت كارآمد-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2114",
+    "name":"مرابحه عام دولت211-ش.خ050528",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"صاميا511",
+    "name":"صكوك مرابحه خزاميا511-3ماهه18%",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"نارنج اهرم",
+    "name":"ص.س. اهرمي نارنج-س",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"ستاره",
+    "name":"ص.س.ستاره پايدارسپهر-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"كمند",
+    "name":"صندوق س. با درآمد ثابت كمند",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"دامون",
+    "name":"ص.س. درآمد ثابت آسمان دامون-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"موج",
+    "name":"ص.س.اهرمي موج فيروزه-س",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد229",
+    "name":"مرابحه عام دولت229-ش.خ061028",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد238",
+    "name":"مرابحه عام دولت238-ش.خ061022",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد1714",
+    "name":"مرابحه عام دولت171-ش.خ060316",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2294",
+    "name":"مرابحه عام دولت229-ش.خ061028",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"كيان",
+    "name":"صندوق س. با درآمد ثابت كيان",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"پاسارگاد",
+    "name":"صندوق س.درآمد ثابت پاسارگاد-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2184",
+    "name":"مرابحه دولت عام218-ش.خ070328",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اونيكس",
+    "name":"ص.س.درآمد ثابت كيميا-د",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد994",
+    "name":"مرابحه عام دولت99-ش.خ050723",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2144",
+    "name":"مرابحه عام دولت214-ش.خ061120",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2204",
+    "name":"مرابحه دولت عام220-ش.خ070303",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2194",
+    "name":"مرابحه دولت عام219-ش.خ061003",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2484",
+    "name":"مرابحه عام دولت248-ش.خ060727",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد1624",
+    "name":"مرابحه عام دولت162-ش.خ050329",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد1984",
+    "name":"مرابحه عام دولت198-ش.خ060524",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد1974",
+    "name":"مرابحه عام دولت197-ش.خ060324",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد1814",
+    "name":"مرابحه عام دولت181-ش.خ050424",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2024",
+    "name":"مرابحه عام دولت202-ش.خ060530",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2234",
+    "name":"مرابحه عام دولت223-ش.خ070431",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2404",
+    "name":"مرابحه عام دولت240-ش.خ060929",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد1734",
+    "name":"مرابحه عام دولت173-ش.خ050620",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد904",
+    "name":"مرابحه عام دولت90-ش.خ050217",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2364",
+    "name":"مرابحه عام دولت236-ش.خ070815",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2164",
+    "name":"مرابحه عام دولت216-ش.خ.061128",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2174",
+    "name":"مرابحه دولت عام217-ش.خ.070228",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2304",
+    "name":"مرابحه عام دولت230-ش.خ070628",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2394",
+    "name":"مرابحه عام دولت239-ش.خ070922",
+    "reason":"blacklist"
+  },
+  {
+    "symbol":"اراد2044",
+    "name":"مرابحه عام دولت204-ش.خ060707",
+    "reason":"blacklist"
+  }
+]
